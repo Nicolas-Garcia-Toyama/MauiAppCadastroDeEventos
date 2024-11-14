@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiAppCadastroDeEventos.MainPage"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="{StaticResource Gray200 }" >
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="10,0"
+            Spacing="10">
+           
+
+            <Label
+                Text="Hello, World!" TextColor="Black"/>
+
+            <Label
+                Text="" />
+
+            
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
