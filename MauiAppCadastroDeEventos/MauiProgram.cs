@@ -13,6 +13,8 @@ namespace MauiAppCadastroDeEventos
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("Lora-Italic-VariableFont_wght.ttf", "LoraItalic");
+                    fonts.AddFont("Lora-VariableFont_wght.ttf", "Lora");
                 });
 
 #if DEBUG
